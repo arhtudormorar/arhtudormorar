@@ -28,7 +28,7 @@ I'm passionate about building tooling and SDKs for Front-End web applications in
 - ⚡ Quickdraw
 
 ### 📫 How to Reach Me
-- Twitter/X: [@arhtudormorar](https://twitter.com/arhtudormorar)
+- Twitter/X: [@MorarTudor](https://twitter.com/morartudor)
 - Location: Sibiu, Romania
 
 ### 🌱 Currently Learning
