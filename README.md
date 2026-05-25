@@ -1,6 +1,6 @@
 # Hi there, I'm Tudor 👋
 
-## 🚀 Lead Front-End Developer @ [MultiversX](https://multiversx.com)
+## 🚀 Lead Front-End Developer @[Colt](colt.net)
 
 I'm passionate about building tooling and SDKs for Front-End web applications in the blockchain space. Currently leading front-end development at MultiversX, working on cutting-edge decentralized applications.
 
@@ -34,4 +34,3 @@ I'm passionate about building tooling and SDKs for Front-End web applications in
 ### 🌱 Currently Learning
 - Advanced TypeScript patterns
 - Machine Learning fundamentals
-- Web3 and blockchain technologies
