@@ -4,7 +4,7 @@
 
 I'm passionate about building tooling and SDKs for Front-End web applications.
 
-### 🔭 What I'm Working On
+### 🔭 What I've Working On
 - [Multiversx Lite Web-Wallet](https://github.com/multiversx/mx-lite-wallet-dapp) 
 - Multiversx [sdk-dapp](https://github.com/multiversx/mx-sdk-dapp) 
 - Multiversx [sdk-dapp-ui](https://github.com/multiversx/mx-sdk-dapp-ui)
@@ -13,7 +13,7 @@ I'm passionate about building tooling and SDKs for Front-End web applications.
 ### 🛠️ Tech Stack
 - **Frontend**: React, TypeScript, JavaScript
 - **Blockchain**: MultiversX (formerly Elrond)
-- **Tools & Practices**: Modern web development, DApp development, Advanced React patterns
+- **Tools & Practices**: FE Ecosystem design, DApp development, Advanced React patterns
 
 ### 💡 Notable Personal Projects
 - **[react-promise-based-navigation](https://github.com/arhtudormorar/react-promise-based-navigation)** - A React application demonstrating promise-based navigation as an alternative to useEffect hooks. Navigate and await user actions with linear, type-safe async/await patterns.
