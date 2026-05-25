@@ -2,7 +2,7 @@
 
 ## 🚀 Lead Front-End Developer @[Colt](colt.net)
 
-I'm passionate about building tooling and SDKs for Front-End web applications in the blockchain space. Currently leading front-end development at MultiversX, working on cutting-edge decentralized applications.
+I'm passionate about building tooling and SDKs for Front-End web applications.
 
 ### 🔭 What I'm Working On
 - [Multiversx Lite Web-Wallet](https://github.com/multiversx/mx-lite-wallet-dapp) 
